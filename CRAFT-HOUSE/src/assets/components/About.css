@@ -1,0 +1,56 @@
+/* Custom CSS for About Component */
+
+.container {
+    max-width: 2px;
+    margin: 0 auto;
+    padding: 0 2px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-lg {
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.75; /* 28px */
+  }
+  
+  .font-medium {
+    font-weight: 500;
+  }
+  
+  .title-font {
+    font-size: 1.25rem; /* 20px */
+  }
+  
+  .text-sm {
+    font-size: 0.875rem; /* 14px */
+  }
+  
+  .text-gray-500 {
+    color: #6b7280; /* Gray-500 */
+  }
+  
+  .text-gray-900 {
+    color: #111827; /* Gray-900 */
+  }
+  
+  .bg-indigo-500 {
+    background-color: #6d28d9; /* Indigo-500 */
+  }
+  
+  .inline-block {
+    display: inline-block;
+  }
+  
+  .mb-8 {
+    margin-bottom: 2rem;
+  }
+  
+  .mb-6 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .mt-8 {
+    margin-top: 2rem;
+  }
